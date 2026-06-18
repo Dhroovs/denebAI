@@ -1,4 +1,4 @@
-# Deneb AI — Backend REST API (Phase 1)
+# Deneb AI -—- Backend REST API (Phase 1)
 
 Welcome to Phase 1 of the **Deneb AI** backend API. This repository houses a production-ready REST API designed using the **FastAPI** framework and backed by **SQLite** and **SQLAlchemy ORM**.
 
