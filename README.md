@@ -124,7 +124,7 @@ The application will launch on **`http://127.0.0.1:8000/`**.
    Navigate to **`http://127.0.0.1:8000/docs`** to view automatic OpenAPI specifications, schemas description, validation inputs, and test API endpoints directly.
 
 3. **ReDoc Alternative Documentation**:
-   Navigate to **`http://127.0.0.1:8000/redoc`** for a alternative clean documentation layout.
+   Navigate to **`http://127.0.0.1:8000/redoc`** for a alternative clean documentation layout..
 
 ---
 
