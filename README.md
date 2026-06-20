@@ -137,6 +137,6 @@ python -m pytest test_api.py
 
 All 10 test cases will execute against a temporary SQLite test database (`test.db`) verifying:
 * Chatbot creation, read, update, delete operations.
-* Knowledge base insertion, search, filtering, and model constraints.
+* Knowledge base insertion, search, filtering, and model constraints..
 * Active status filters and offset-limit pagination logic.
 * Database cascades (deleting a chatbot automatically cascade-deletes linked knowledge documents).
