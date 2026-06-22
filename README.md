@@ -6,7 +6,7 @@ This phase establishes the structural, database, validation, and endpoint founda
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure:
 
 The project follows a modular, clean, and scalable architecture, strictly separating database concerns, schemas, routing, and CRUD/service layers:
 
