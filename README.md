@@ -128,7 +128,7 @@ The application will launch on **`http://127.0.0.1:8000/`**.
 
 ---
 
-## 🧪 Running Unit Tests
+## 🧪 Running Unit Tests:
 
 Run the automated test suite to verify the application constraints:
 ```bash
