@@ -100,7 +100,7 @@ python seed_data.py
 
 ---
 
-## 🖥️ Running the Server
+## 🖥️ Running the Server:
 
 Start the FastAPI application server using:
 ```bash
