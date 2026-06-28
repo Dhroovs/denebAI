@@ -118,7 +118,7 @@ The application will launch on **`http://127.0.0.1:8000/`**.
 ## 🌐 Navigating the REST API
 
 1. **System Root Metadata**:
-   Accessing `http://127.0.0.1:8000/` returns a JSON metadata block summarizing the API status and exposing Swagger links.
+   Accessing `http://127.0.0.1:8000/` returns a JSON metadata block summarizing the API status and exposing Swagger links...
 
 2. **FastAPI Swagger API Documentation**:
    Navigate to **`http://127.0.0.1:8000/docs`** to view automatic OpenAPI specifications, schemas description, validation inputs, and test API endpoints directly.
